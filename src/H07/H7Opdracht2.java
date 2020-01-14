@@ -1,3 +1,5 @@
+package H07;
+
 import java.util.Scanner;
 
 public class H7Opdracht2 {
